@@ -1,0 +1,9 @@
+/* Change the color of the h1 tag to purple. */
+
+h1 {
+    color: blue;
+  }
+  /* Answer */
+h1 {
+      color:purple;
+  }
